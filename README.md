@@ -7,6 +7,7 @@
 ## :information_source: Available in
 
 January 2022
+This game is taken from the-complete-javascript-course repository, and it was developed to learn the concepts of DOM manipulation in Javascript.
 
 ## :construction_worker: Developed by
 
