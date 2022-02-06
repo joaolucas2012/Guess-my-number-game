@@ -2,6 +2,8 @@
 
 ## :closed_book: Version
 
+## Info
+
 1.0.0
 
 ## :information_source: Available in
